@@ -1,9 +1,3 @@
 Hola, mi nombre es Lucas y este es un archivo nuevo
 
-hello world
-
-agrego este mensaje, nací en Capital Federal
-
-agrego algo nuevo: soy de san lorenzo
-
-Hoy es viernes 21 de julio del año 2023
+Mañana nos enfocaremos en la vida laboral
